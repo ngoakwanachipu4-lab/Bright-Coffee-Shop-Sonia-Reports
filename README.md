@@ -73,5 +73,13 @@ All findings were compiled into an interactive analytical dashboard presenting m
 - Evening trading is materially underutilised, presenting a clear opportunity to grow basket size through targeted promotions.
 - Weekend revenue at 27.9% of the total is a structural gap that weekend-specific activations could address.
 
+## 5. Tools Used in the Case Study
+
+| Tool | Purpose |
+|---|---|
+| **Microsoft Excel (.xlsx)** | Source data format — raw transactional dataset provided by Bright Coffee Shop |
+| **SQL** |  data loading, transformation, and analysis |
+
+
 
 
