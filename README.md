@@ -1,7 +1,7 @@
 # Bright-Coffee-Shop-Sonia-Reports
 ## 1. Problem Statement
 
-Bright Coffee Shop operates three locations across New York City (Hell's Kitchen, Astoria, and Lower Manhattan) and has recently appointed a new CEO tasked with growing revenue and improving product performance. Despite having six months of transactional data available, the business lacked a structured analytical view of its sales performance. There was no clear visibility into which products were driving revenue, which times of day were most profitable, how sales trended over time, or where operational and marketing opportunities existed. Without these insights, strategic decision-making remained largely intuitive rather than data-driven.
+Bright Coffee Shop operates three locations across three stores  (Hell's Kitchen, Astoria, and Lower Manhattan) and has recently appointed a new CEO tasked with growing revenue and improving product performance. Despite having six months of transactional data available, the business lacked a structured analytical view of its sales performance. There was no clear visibility into which products were driving revenue, which times of day were most profitable, how sales trended over time, or where operational and marketing opportunities existed. Without these insights, strategic decision-making remained largely intuitive rather than data-driven.
 
 ---
 
